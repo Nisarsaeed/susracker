@@ -93,9 +93,9 @@ git clone https://github.com/YOUR_USERNAME/susracker.git
 
 ## Contact & Contributors
 
-- **Nisar** — [LinkedIn](YOUR_LINKEDIN_URL)
-- **Mohsin** — [LinkedIn](YOUR_LINKEDIN_URL)
-- **Mustafa** — [LinkedIn](YOUR_LINKEDIN_URL)
+- **Nisar Saeed** — [LinkedIn](https://www.linkedin.com/in/nisar-saeed/)
+- **Mohsin** — [LinkedIn](https://www.linkedin.com/in/mohisn-cs/)
+- **Mustafa** — [LinkedIn](https://www.linkedin.com/in/mustafatahir1020/)
 
 ## Conclusion
 
